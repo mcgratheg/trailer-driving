@@ -14,3 +14,6 @@ Project is created with :
 
 # Driving Simulation
 [![Image from Gyazo](https://i.gyazo.com/7c989d0745c01ce14334643bc368b573.gif)](https://gyazo.com/7c989d0745c01ce14334643bc368b573)
+
+# Trailer sway Simulation
+[![Image from Gyazo](https://i.gyazo.com/7eb048b15529eabd1796c1e53b638ea9.gif)](https://gyazo.com/7eb048b15529eabd1796c1e53b638ea9)
