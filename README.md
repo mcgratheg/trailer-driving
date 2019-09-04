@@ -10,7 +10,7 @@ Dissertaition Project 2018
 # Technologies
 Project is created with :
 * JavaScript
-* HTML
+* HTML5
 
 # Driving Simulation
 [![Image from Gyazo](https://i.gyazo.com/7c989d0745c01ce14334643bc368b573.gif)](https://gyazo.com/7c989d0745c01ce14334643bc368b573)
